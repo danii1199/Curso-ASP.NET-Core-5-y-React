@@ -1,0 +1,12 @@
+D:\CursoNetCoreReact\NetChat\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\CursoNetCoreReact\NetChat\Domain\bin\Debug\net5.0\Domain.dll
+D:\CursoNetCoreReact\NetChat\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\CursoNetCoreReact\NetChat\Domain\bin\Debug\net5.0\Domain.pdb
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.dll
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\CursoNetCoreReact\NetChat\Domain\obj\Debug\net5.0\Domain.pdb

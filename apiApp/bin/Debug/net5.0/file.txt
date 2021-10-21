@@ -1,0 +1,151 @@
+2021-09-15 18:36:25.1684|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 18:36:25.2054|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 18:36:25.2079|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 18:36:25.2079|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 18:36:25.2079|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 18:37:23.6466|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-15 18:37:29.6885|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 18:37:32.3561|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 18:37:32.3561|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 18:37:32.3638|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 18:37:32.3638|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 18:37:38.6805|FATAL|api.Controllers.CastsController|$Un error ocurrio al buscar el cast con id System.InvalidOperationException: Operation is not valid due to the current state of the object.
+   at api.Controllers.CastsController.GetCast(Int32 movieId, Int32 castId) in D:\CursoNetCoreReact\apiApp\Controllers\CastsController.cs:line 35
+2021-09-15 18:40:01.0395|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-15 18:40:07.4532|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 18:40:07.5387|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 18:40:07.5387|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 18:40:07.5387|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 18:40:07.5387|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 18:40:25.2580|FATAL|api.Controllers.CastsController|Un error ocurrio al buscar el cast con id 1
+2021-09-15 19:18:44.9564|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:18:45.0128|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:18:45.0128|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:18:45.0209|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:18:45.0209|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:30:15.1803|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:30:15.2674|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:30:15.2744|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:30:15.2744|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:30:15.2744|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:32:51.9999|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:32:52.0531|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:32:52.0531|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:32:52.0531|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:32:52.0531|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:38:28.4643|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:38:28.5375|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:38:28.5375|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:38:28.5375|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:38:28.5375|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:44:24.1435|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:44:24.2056|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:44:24.2106|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:44:24.2106|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:44:24.2106|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:55:30.4247|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:55:30.4779|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:55:30.4779|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:55:30.4779|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:55:30.4899|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 19:57:40.7830|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 19:57:40.8384|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 19:57:40.8384|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 19:57:40.8476|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 19:57:40.8476|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-15 20:03:14.4482|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-15 20:03:14.5239|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-15 20:03:14.5239|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-15 20:03:14.5239|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-15 20:03:14.5239|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-21 13:13:41.8456|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-21 13:13:41.9243|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-21 13:13:41.9243|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-21 13:13:41.9243|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-21 13:13:41.9266|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-21 13:44:28.9478|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-21 14:07:53.5036|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-21 14:07:53.5488|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-21 14:07:53.5488|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-21 14:07:53.5488|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-21 14:07:53.5488|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-21 14:12:37.4432|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-21 14:14:44.2075|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-21 14:14:44.2429|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-21 14:14:44.2429|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-21 14:14:44.2453|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-21 14:14:44.2453|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-21 20:04:20.4927|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-21 20:04:20.5714|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-21 20:04:20.5757|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-21 20:04:20.5757|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-21 20:04:20.5757|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-21 20:06:59.6321|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-23 12:19:07.9686|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 12:19:10.8192|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 12:19:10.8192|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 12:19:10.8192|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 12:19:10.8192|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 12:30:25.3754|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 12:30:25.4472|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 12:30:25.4472|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 12:30:25.4472|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 12:30:25.4472|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 12:31:37.2834|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-09-23 12:32:14.5157|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-23 12:32:26.0118|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 12:32:26.0683|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 12:32:26.0683|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 12:32:26.0683|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 12:32:26.0683|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 12:32:35.8646|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-09-23 12:33:35.2574|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 12:33:35.3319|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 12:33:35.3319|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 12:33:35.3319|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 12:33:35.3319|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 13:13:57.5620|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 13:13:57.6338|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 13:13:57.6338|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 13:13:57.6338|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 13:13:57.6338|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 13:14:26.5312|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 13:14:26.5796|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 13:14:26.5796|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 13:14:26.5796|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 13:14:26.5796|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 13:19:15.3601|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 13:19:15.4223|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 13:19:15.4223|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 13:19:15.4223|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 13:19:15.4223|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-23 13:27:46.9678|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-23 13:27:47.0340|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-23 13:27:47.0340|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-23 13:27:47.0340|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-23 13:27:47.0340|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-28 14:00:52.8877|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-28 14:00:52.9176|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-28 14:00:52.9176|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-28 14:00:52.9176|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-28 14:00:52.9176|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-28 14:02:58.1115|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-09-28 14:04:56.6095|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-28 14:05:01.6652|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-28 14:05:01.6931|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-28 14:05:01.6931|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-28 14:05:01.6931|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-28 14:05:01.6931|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-28 14:10:42.8062|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-28 14:10:47.8539|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-28 14:10:47.8896|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-28 14:10:47.8896|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-28 14:10:47.8896|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-28 14:10:47.8896|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-28 14:15:24.0275|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-09-28 14:15:29.2222|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-09-28 14:15:29.2596|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-09-28 14:15:29.2596|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-28 14:15:29.2596|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-28 14:15:29.2596|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\CursoNetCoreReact\apiApp
+2021-09-28 14:15:58.5236|INFO|api.Controllers.CastsController|El cast con el id 5 no fue encontrado

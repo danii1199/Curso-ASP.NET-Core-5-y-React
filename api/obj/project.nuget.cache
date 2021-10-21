@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZeLeCb98okkFzQXnle1mYCgYvS4xIsyD+pM+EwQLgFgjLe0aYuy7zFeUTj03pAqicF/iB1qqeFYfpQfsMkrgg==",
+  "success": false,
+  "projectFilePath": "d:\\CursoNetCoreReact\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danii1199\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.jsonpatch.6.0.0-rc.1.21452.15.nupkg.sha512",
+    "C:\\Users\\Danii1199\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0-rc.1.21452.15.nupkg.sha512",
+    "C:\\Users\\Danii1199\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Danii1199\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.AspNetCore.Mvc.NewtonsoftJson 6.0.0-rc.1.21452.15 no es compatible con net5.0 (.NETCoreApp,Version=v5.0). El paquete Microsoft.AspNetCore.Mvc.NewtonsoftJson 6.0.0-rc.1.21452.15 admite: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
